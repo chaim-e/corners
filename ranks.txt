@@ -1,0 +1,5 @@
+[Mon,20:16:43]	size = 2 	trees = 4	rank = 2	new = 2	
+[Mon,20:16:45]	size = 3 	trees = 30	rank = 8	new = 6	
+[Mon,20:16:46]	size = 4 	trees = 218	rank = 31	new = 23	
+[Mon,20:16:55]	size = 5 	trees = 1717	rank = 131	new = 100	
+[Mon,20:18:42]  done
