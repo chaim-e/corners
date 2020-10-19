@@ -465,7 +465,7 @@ def count_3241(perm):
             if z > x:
                 count += PT.sum_box(x+1,z,z+1,n)
         for z in permT[y-y%chunk:y]:
-            if z > x:
+            if z > x:          # just saving time, we never look where z < x
                 PT.add(x,z,1)
                 
     return count
